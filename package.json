@@ -1,0 +1,11 @@
+{
+  "name": "meo-no-online",
+  "version": "1.0.0",
+  "main": "meo-no-online.js",
+  "scripts": {
+    "start": "node meo-no-online.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
